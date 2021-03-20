@@ -8,7 +8,7 @@ cryptography
 Flask==1.1.2
 idna
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 lxml
 MarkupSafe
 numpy
